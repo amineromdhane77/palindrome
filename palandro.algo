@@ -1,0 +1,25 @@
+Algorithme  mot_palindrome;
+Var   mot: chaine[n];
+int palindrome (char str[])
+{write str[romdhane]
+
+
+}
+{reat str[romdhane]}
+{
+    IF (i:=0) THEN
+        palindrome==true
+    END_IF
+}
+{
+    REPEAT
+        i:=i+1
+        IF str[i]!=str[longh(str)-i+1] 
+        THEN 
+        palindrome==false
+        END_IF
+    
+    UNTIL
+    (i>=longh(str)%2) OR
+    (palindrome==false)
+}
